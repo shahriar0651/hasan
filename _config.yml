@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Md "Hasan" Shahriar"
+title                    : "Md Hasan Shahriar"
 title_separator          : "-"
-name                     : &name "Md "Hasan" Shahriar"
+name                     : &name "Md Hasan Shahriar"
 description              : &description "PhD Candidate"
 url                      : https://shahriar0651.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
