@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an PhD candidate  the Department of Computer Science at the Virginia Tech. I am working as a graduate research assistant (GRA) in the complex network and security research (CNSR) lab under the supervision of Dr. Wenjing Lou.
-
-My research interests include machine learning and cybersecurity with an application to cyber-physical systems, particularly connected and autonomus vehicles. 
+I am currently a PhD candidate in the Department of Computer Science at Virginia Tech, where I work as a Graduate Research Assistant in the Complex Network and Security Research (CNSR) Lab, under the guidance of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My research focuses on the intersection of machine learning and cybersecurity, with a particular emphasis on applications to cyber-physical systems, including connected and autonomous vehicles. 
 
 Education
 ======
@@ -40,5 +38,5 @@ News
 - [February 2016] Defended BSc Thesis on "Transient Stability Analysis of Smart Grid with Impacts of Distributed Generation." 
 [February 2011] Started BSc at Bangladesh University of Engineering and Technology (BUET)  
 
-For more info
-------
+<!-- For more info
+------ -->
