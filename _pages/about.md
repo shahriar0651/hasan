@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the Department of Computer Science at Virginia Tech, where I work as a Graduate Research Assistant in the Complex Network and Security Research (CNSR) Lab, under the guidance of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My research focuses on the intersection of machine learning and cybersecurity, with a particular emphasis on applications to cyber-physical systems, including connected and autonomous vehicles. 
+I am currently a PhD candidate in the Department of Computer Science at [Virginia Tech](https://www.vt.edu/), where I work as a Graduate Research Assistant in the [Complex Network and Security Research (CNSR) Lab](https://www.cnsr.ictas.vt.edu/) under the supervision of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My research focuses on the intersection of machine learning and cybersecurity, with a particular emphasis on applications to cyber-physical systems, including connected and autonomous vehicles. 
 
 Education
 ======
-* B.S. in Electrical and Electronic Engineering, Bangladesh University of Engineering & Technology, 2016
-* M.S. in Computer Engineering, Florida International University, 2020
-* Ph.D (Ongoing) in Computer Science, Virginia Tech
+* B.S. in Electrical and Electronic Engineering, [Bangladesh University of Engineering & Technology](https://www.buet.ac.bd), 2016
+* M.S. in Computer Engineering, [Florida International University](https://www.fiu.edu/), 2020
+* Ph.D (Ongoing) in Computer Science, [Virginia Tech](https://www.vt.edu/)
 
 
 News
