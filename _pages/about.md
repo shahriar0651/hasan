@@ -1,19 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-## About me
 I am an PhD candidate  the Department of Computer Science at the Virginia Tech. I am working as a graduate research assistant (GRA) in the complex network and security research (CNSR) lab under the supervision of Dr. Wenjing Lou.
 
 My research interests include machine learning and cybersecurity with an application to cyber-physical systems, particularly connected and autonomus vehicles. 
 
-## Education
+Education
+======
 * B.S. in Electrical and Electronic Engineering, Bangladesh University of Engineering & Technology, 2016
 * M.S. in Computer Engineering, Florida International University, 2020
 * Ph.D (Ongoing) in Computer Science, Virginia Tech
