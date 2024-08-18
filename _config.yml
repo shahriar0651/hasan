@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Md Hasan Shahriar"
 title_separator          : "-"
 name                     : &name "Md Hasan Shahriar"
-description              : &description "PhD Candidate, CS@VT\\Graduate Research Assistant\\CNSR Lab"
+description              : &description "PhD Candidate | Graduate Research Assistant | Computer Science @ Virginia Tech | CNSR Lab"
 url                      : https://shahriar0651.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shahriar0651/shahriar0651.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_bnw.jpg"
   name             : "Md Hasan Shahriar"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate | Computer Science @ Virginia Tech | Graduate Research Assistant at CNSR Lab"
+  bio              : "PhD Candidate | Graduate Research Assistant | Computer Science @ Virginia Tech | CNSR Lab"
   location         : "Arlington, VA, USA"
   employer         : "Virginia Tech"
   uri              : # URL
@@ -50,7 +50,7 @@ author:
   # Social media
   bluesky          : # Username "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : # Username
+  flickr           : shahriar-shuvo
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
@@ -75,7 +75,7 @@ author:
 
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : 500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -252,7 +252,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
       type: portfolio
