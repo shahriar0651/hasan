@@ -11,9 +11,9 @@ I am currently a PhD candidate in the Department of Computer Science at [Virgini
 
 Education
 ======
-* B.S. in Electrical and Electronic Engineering, [Bangladesh University of Engineering & Technology](https://www.buet.ac.bd), 2016
+* Ph.D in Computer Science, [Virginia Tech](https://www.vt.edu/) (Ongoing)
 * M.S. in Computer Engineering, [Florida International University](https://www.fiu.edu/), 2020
-* Ph.D (Ongoing) in Computer Science, [Virginia Tech](https://www.vt.edu/)
+* B.S. in Electrical and Electronic Engineering, [Bangladesh University of Engineering & Technology](https://www.buet.ac.bd), 2016
 
 News
 ======
