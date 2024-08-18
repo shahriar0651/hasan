@@ -1,12 +1,12 @@
 ---
 title: "G-IDS: Generative Adversarial Networks Assisted Intrusion Detection System"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper proposes a generative adversarial network (GAN) based intrusion detection system (G-IDS).'
+permalink: /publication/2020-07-13-Paper_GIDS
+excerpt: 'This paper proposes a generative adversarial network (GAN)-based intrusion detection system (G-IDS).'
 date: 2020-07-13
-venue: '2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC)'
+venue: 'IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC)'
 # slidesurl: 'http://shahriar0651.github.io/files/slides2.pdf'
-paperurl: 'http://shahriar0651.github.io/files/paper_GIDS.pdf'
+paperurl: 'http://shahriar0651.github.io/files/paper_2020_GIDS.pdf'
 citation: 'Shahriar, M. H., Haque, N. I., Rahman, M. A., & Alonso, M. (2020, July). G-ids: Generative adversarial networks assisted intrusion detection system. In 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC) (pp. 376-385). IEEE.'
 ---
 

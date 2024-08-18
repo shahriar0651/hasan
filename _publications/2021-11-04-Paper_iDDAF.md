@@ -1,0 +1,13 @@
+---
+title: "iDDAF: An Intelligent Deceptive Data Acquisition Framework for Secure Cyber-Physical Systems"
+collection: publications
+permalink: /publication/2020-07-13-Paper_iDDAF
+excerpt: 'This paper proposed an intelligent deception defense-based data acquisition framework for hierarchical CPSs network.'
+date: 2021-11-04
+venue: '17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)'
+# slidesurl: 'http://shahriar0651.github.io/files/slides2.pdf'
+paperurl: 'http://shahriar0651.github.io/files/paper_2021_iDDAF.pdf'
+citation: 'Shahriar, M. H., Rahman, M. A., Haque, N. I., Chowdhury, B., & Whisenant, S. G. (2021). iDDAF: An Intelligent Deceptive Data Acquisition Framework for Secure Cyber-Physical Systems. In Security and Privacy in Communication Networks: 17th EAI International Conference, SecureComm 2021, Virtual Event, September 6–9, 2021, Proceedings, Part II 17 (pp. 338-359). Springer International Publishing.'
+---
+
+Internet of Things (IoT) and Cyber-Physical Systems (CPSs) are creating hybrid platforms that are becoming ubiquitous in all modern infrastructure. As complex and heterogeneous systems are getting integrated, a malicious user can have tremendous opportunities to infiltrate networks, steal sensitive information, inject cleverly crafted false data into measurements, or overwhelm networks with fake packets. Such malicious activities can prevent legitimate requests or even mislead the control center to make erroneous decisions. Agility-based defense mechanisms are robust in deceiving adversaries by randomizing the sensor data at different communication hierarchy levels. While misleading the attackers, the control center must retrieve the actual data to operate the system correctly. Existing mechanisms consider sharing the exact remapping pattern with the control center. Such direct sharing raises the concern of further attacks on them and communication overheads. Hence, we propose iDDAF, an intelligent deception defense-based data acquisition framework that leverages system-agnostic prediction and remapping model at the controller level to ensure a comprehensive security solutions (CIA triad) for any hierarchical CPSs network. In this framework, the data reporting/relaying nodes randomize the associated sensor addresses/IDs and add decoy data, while the prediction mechanism at the control center reassigns the original IDs to the measurements and impute the missing data if necessary. Hence, any reconnaissance attempt fails, artfully altered measurements turn into random data injections, making it easy to remove them as outliers. Experimental results on the standard IEEE 14 bus system show that iDDAF can detect and completely mitigate different types of cyberattacks.
