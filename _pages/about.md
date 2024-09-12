@@ -17,6 +17,9 @@ Education
 
 News
 ======
+- **[July 2024]**: Presented the VehiGAN paper at IEEE ICDCS 2024 in New Jersey, USA.
+- **[July 2024]**: Awarded NSF Travel Grant to attend IEEE ICDCS 2024.
+- **[June 2024]**: Attended the [CyberTruck Challenge 2024](https://www.cybertruckchallenge.org/past-challenges/2024-2/) in Warren, Michigan, for hands-on experience in automotive cybersecurity.
 - **[April 2024]**: Paper accepted: "VehiGAN: Generative Adversarial Networks for Adversarially Robust V2X Misbehavior Detection Systems" at IEEE ICDCS 2024. 
 - **[July 2023]**: Paper accepted: "CANShield: Deep Learning-Based Intrusion Detection Framework for Controller Area Networks at the Signal-Level" at IEEE Internet of Things Journal.
 - **[May 2023]**: Started Summer internship at [Qualcomm Inc](https://www.qualcomm.com/).  
