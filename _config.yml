@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TcCzjTQAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0003-0289-8611"
+  orcid            : # "http://orcid.org/0000-0003-0289-8611"
   semantic         : # URL
   pubmed           : # URL #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -50,7 +50,7 @@ author:
   # Social media
   bluesky          : # Username "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : shahriar-shuvo
+  flickr           : # shahriar-shuvo
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
