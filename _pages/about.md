@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the Department of Computer Science at [Virginia Tech](https://www.vt.edu/), where I work as a Graduate Research Assistant in the [Complex Network and Security Research (CNSR) Lab](https://www.cnsr.ictas.vt.edu/) under the supervision of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My research interests lie in machine learning and cybersecurity and address the emerging security challenges in cyber-physical systems, particularly connected and autonomous vehicles. I am passionate about designing advanced intrusion detection systems and developing robust multimodal fusion-based perception systems. I am also enthusiastic about studying machine learning vulnerabilities and creating resilient solutions to enhance the safety and reliability of autonomous systems.
+I am an Amazon Fellow and PhD candidate in the Department of Computer Science at [Virginia Tech](https://www.vt.edu/), where I work as a Graduate Research Assistant in the [Complex Network and Security Research (CNSR) Lab](https://www.cnsr.ictas.vt.edu/) under the supervision of [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My research focuses on the intersection of machine learning and cybersecurity, with a particular emphasis on applications to cyber-physical systems, including connected and autonomous vehicles. 
 
 Education
 ======
@@ -17,6 +17,8 @@ Education
 
 News
 ======
+- **[October 2024]** Presented research on *''Securing Connected and Autonomous Vehicles: From In-Vehicular Networks to Multi-Modal Fusion''* at Amazon-VT Initiative Fall '24 Retreat at Blacksburg, VA.
+- **[August 2024]** Selected as **Amazon Fellow** by *[Amazon - Virginia Tech Initiative for Efficient and Robust Machine Learning](https://amazon.cs.vt.edu/)* for academic year 2024-25.
 - **[July 2024]**: Presented the VehiGAN paper at IEEE ICDCS 2024 in New Jersey, USA.
 - **[July 2024]**: Awarded NSF Travel Grant to attend IEEE ICDCS 2024.
 - **[June 2024]**: Attended the [CyberTruck Challenge 2024](https://www.cybertruckchallenge.org/past-challenges/2024-2/) in Warren, Michigan, for hands-on experience in automotive cybersecurity.
